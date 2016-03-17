@@ -1,0 +1,13 @@
+.KosbiesFace { 
+    background-color:red;
+    color:blue;
+    border-color:blue;
+    border-width:4x;
+    border-style:solid;
+    padding: 25px;
+    margin: 15px;
+}
+
+#MyWebsitePost {
+    font-size:300%;
+}
